@@ -1,0 +1,14 @@
+body{
+    background-color:cadetblue;
+}
+.movie img{
+    height: 20rem ;
+    /* width: 20re; */
+}
+.books img{
+    height: 20rem;
+}
+.newmain{
+    height: 110vh;
+    background-color: rgb(170, 170, 14);
+}
